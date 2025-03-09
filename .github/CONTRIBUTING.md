@@ -6,6 +6,14 @@ If you'd like to suggest a change in the tutorials or the workflow, please [rais
 
 If you're making changes to a translation, please request a review from our previous contributors who has translated to the respective translation. Our goal is for all translations to have the same content as the English one (`Readme.md`) (Except for links to other translations. We realised that it doesn't add much value)
 
+### First Contributions
+
+Adding your name to the `Contributors.md` file is a potential first contribution. This helps you get familiar with the process of making a contribution and is a great way to start.
+
+### Contributing to Translations
+
+Contributing to translations is a possible first contribution. If you are fluent in a language other than English, you can help by translating the content of this repository into that language. This helps make the content accessible to a wider audience.
+
 ### Our reviewers :sparkles:
 
 | Language Name | Name in English | Reviewers|
